@@ -1,0 +1,15 @@
+body {
+    background: #eee;
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px 110px;
+}
+
+header, footer {
+    text-align: center;
+}
+
+footer {
+    margin-top: 100px;
+    font-size: 12px;
+}
